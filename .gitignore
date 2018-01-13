@@ -1,0 +1,7 @@
+
+settings.json
+node_modules
+data
+
+*.swp
+*.*.swp
